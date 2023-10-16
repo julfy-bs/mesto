@@ -1,7 +1,0 @@
-.card__footer {
-  background-color: var(--color-white);
-  display: grid;
-  grid-template: "title like"
-"title count"/ auto max-content;
-  padding: 25px 21px 25px;
-}
