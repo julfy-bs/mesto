@@ -26,7 +26,8 @@
 .profile__avatar:after {
   background-color: #fff;
   display: block;
-  mask: url('../../../../images/profile-pencil.svg') center / 26px 26px no-repeat;
+  mask: url('../../../../images/profile-pencil.svg#pencil') center / 26px 26px no-repeat;
+  -webkit-mask: url('../../../../images/profile-pencil.svg#pencil') center / 26px 26px no-repeat;
 }
 
 .profile__avatar:hover:before,
